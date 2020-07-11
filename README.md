@@ -13,5 +13,6 @@ trying to change it and its new value already exists in storage, it will let you
 NOTES:
 Program will not let you add an already existant number.
 Program will not let you input empty name or surname, although all characters are allowed
-All contact data is stored in local storage
+All contact data is stored in local storage contactManager\bin\Debug\netcoreapp3.1\contactList.json
+
 
