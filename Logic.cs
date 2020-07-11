@@ -33,7 +33,6 @@ namespace contactManager
                 return;
             }
 
-
             bool isNumberTaken = Logic.contactAlreadyExists(contactToInsert);
             if (!isNumberTaken)
             {
