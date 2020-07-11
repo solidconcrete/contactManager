@@ -1,4 +1,6 @@
-Simple console application that lets you create and manage contacts.
+Simple console application that lets you create and manage contacts
+Wanted to experiment with JSON on c#, so local storage is implemented using JSON
+
 
 1) Create contact. Lets you create contact which has a name, a surname, a phone number and optionally an address.
 
