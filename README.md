@@ -14,5 +14,6 @@ NOTES:
 Program will not let you add an already existant number.
 Program will not let you input empty name or surname. All characters are allowed
 All contact data is stored in local storage contactManager\bin\Debug\netcoreapp3.1\contactList.json
+If the file is empty, List will not display anything
 
 
